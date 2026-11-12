@@ -8,6 +8,7 @@ public class Main {
         int d = 40;
         int e = 50;
         int f = 60;
+        int g = 70;
         System.out.println("计算结果：" + (a + b));
     }
 }
