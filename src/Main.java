@@ -7,6 +7,7 @@ public class Main {
         int c = 30;
         int d = 40;
         int e = 50;
+        int f = 60;
         System.out.println("计算结果：" + (a + b));
     }
 }
