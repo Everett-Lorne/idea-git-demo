@@ -10,6 +10,7 @@ public class Main {
         int f = 60;
         int g = 70;
         int h = 80;
+        int i = 80;
         System.out.println("计算结果：" + (a + b));
     }
 }
